@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "firelite"
-  spec.version       = "0.0.0"
+  spec.version       = "0.0.2"
   spec.authors       = ["=vaisakh"]
   spec.email         = ["mail.vaisakhvm@gmail.com"]
   spec.description   = "A gem for developers to open firebug lite, useful for IE development and bug fixing!"
