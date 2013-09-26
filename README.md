@@ -26,6 +26,8 @@ Note: This is stable for developement version now.
 
 Once the gem installed, launch the browser with your project and press F12.
 
+Make sure you have //= require firelite in your application.js
+
 Firebug will load the console and you can easily debug.
 
 Note: Don't click on the close buttion of firebug, use F12 again to close.
