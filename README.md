@@ -1,6 +1,8 @@
 # Firelite
 
-TODO: Write a gem description
+##Ddescription
+
+A gem for developers to open firebug lite, useful for IE development and bug fixing!
 
 ## Installation
 
@@ -18,7 +20,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This is easy to use gem for front end debugging with firbug.
+
+Note: This is stable for developement version now.
+
+Once the gem installed, launch the browser with your project and press F12.
+
+Firebug will load the console and you can easily debug.
+
+Note: Don't click on the close buttion of firebug, use F12 again to close.
+      If you click on the close button, then you hit F12 again, it will load chrome's default developer cosole if you are using  chrome.
+      Or you have to refresh the page again to get the firebug console.
+
+Happy coding :)
 
 ## Contributing
 
