@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = "1.0.0"
   spec.authors       = ["=vaisakh"]
   spec.email         = ["mail.vaisakhvm@gmail.com"]
-  s.homepage         = "https://github.com/vaisakh/firelite"
+  spec.homepage      = "https://github.com/vaisakh/firelite"
   spec.description   = "A gem for developers to open firebug lite, useful for IE development and bug fixing!"
   spec.summary       = "Firelite!"
   spec.homepage      = ""
