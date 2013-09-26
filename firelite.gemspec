@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "firelite"
-  spec.version       = "0.1.0"
+  spec.version       = "1.0.0"
   spec.authors       = ["=vaisakh"]
   spec.email         = ["mail.vaisakhvm@gmail.com"]
   s.homepage         = "https://github.com/vaisakh/firelite"
