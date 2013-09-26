@@ -32,6 +32,9 @@ To precompile, RAILS_ENV=development bundle exec rake assets:precompile
 
 Firebug will load the console and you can easily debug.
 
+Note: If not working in production 
+Set config.serve_static_assets = false to true
+
 Note: Don't click on the close buttion of firebug, use F12 again to close.
       If you click on the close button, then you hit F12 again, it will load chrome's default developer cosole if you are using  chrome.
       Or you have to refresh the page again to get the firebug console.
